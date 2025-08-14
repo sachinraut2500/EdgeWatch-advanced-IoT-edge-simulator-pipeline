@@ -27,3 +27,4 @@ cat > edgewatch.py <<'PY'
 # <paste the contents of edgewatch.py here>
 PY
 !python edgewatch.py --mode all --device colab-edge-001 --publish-for 120
+______________________________________
