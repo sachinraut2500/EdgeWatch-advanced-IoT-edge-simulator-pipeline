@@ -15,7 +15,7 @@ EdgeWatch is a single-file IoT demo that simulates an edge device publishing tel
 - Plotly offline dashboard generator
 - OTA update simulation endpoint (manifest + URL)
 
-- - - - - 
+- - - - - - 
 
 ## Architecture
 
