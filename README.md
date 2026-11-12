@@ -1,5 +1,5 @@
 # EdgeWatch - Advanced IoT Edge Simulator & Pipeline
-
+---
 EdgeWatch is a single-file IoT demo that simulates an edge device publishing telemetry, a collector that stores telemetry into SQLite, simple anomaly detection, a small REST API, OTA update simulation, and a Plotly dashboard. The project is designed to run in **Google Colab** or locally and is git-ready for GitHub.
 
 ## Files
